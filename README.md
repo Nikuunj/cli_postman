@@ -31,7 +31,7 @@ CLI Postman is a command-line tool that allows users to send HTTP requests direc
 
 1. Clone the repository using Git Bash or Command Prompt:
    ```sh
-   git clone https://github.com/your-repo/cli_postman.git
+   git clone https://github.com/Nikuunj/cli_postman.git
    ```
 2. Navigate to the project directory:
    ```sh
