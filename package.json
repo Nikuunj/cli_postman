@@ -4,11 +4,17 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc -b ",
-    "start": "tsb -b && node ./dist/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "axios": "^1.8.3",
+    "commander": "^13.1.0"
+  }
 }
