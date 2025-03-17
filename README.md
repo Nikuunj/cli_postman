@@ -175,7 +175,3 @@ Response:
   "message": "Post deleted successfully"
 }
 ```
-
-## License
-
-MIT License
