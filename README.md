@@ -159,13 +159,13 @@ Response:
 ### DELETE Request
 
 ```sh
-node ./dist/index.js delete <url>
+node ./dist/index.js delete <URL> <data>
 ```
 
 Example:
 
 ```sh
-node ./dist/index.js delete https://jsonplaceholder.typicode.com/posts/1
+node ./dist/index.js delete https://jsonplaceholder.typicode.com/posts/1 '{"title":"Partially Updated Title"}'
 ```
 
 Response:
