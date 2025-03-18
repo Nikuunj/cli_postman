@@ -159,7 +159,7 @@ Response:
 ### DELETE Request
 
 ```sh
-node ./dist/index.js delete <URL> <data>
+node ./dist/index.js delete <URL> '<data>'
 ```
 
 Example:
